@@ -10,13 +10,8 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>osx-util</artifactId>
+    <artifactId>osx-web</artifactId>
+    <packaging>war</packaging>
 
-    <dependencies>
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-core</artifactId>
-            <version>3.0.6.RELEASE</version>
-        </dependency>
-    </dependencies>
+
 </project>

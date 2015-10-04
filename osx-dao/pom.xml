@@ -10,13 +10,13 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>osx-util</artifactId>
+    <artifactId>osx-dao</artifactId>
 
     <dependencies>
         <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-core</artifactId>
-            <version>3.0.6.RELEASE</version>
+            <groupId>com.lrq.osx.idea</groupId>
+            <artifactId>osx-util</artifactId>
+            <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
 </project>

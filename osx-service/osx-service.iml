@@ -11,6 +11,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="osx-dao" />
+    <orderEntry type="module" module-name="osx-util" />
     <orderEntry type="library" name="Maven: org.springframework:spring-core:3.0.6.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-asm:3.0.6.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: commons-logging:commons-logging:1.1.1" level="project" />
