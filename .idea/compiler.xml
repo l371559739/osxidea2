@@ -22,7 +22,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="osx-dao" />
+        <module name="osx-service" />
         <module name="osx-util" />
+        <module name="osx-web" />
       </profile>
     </annotationProcessing>
   </component>

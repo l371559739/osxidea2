@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/osx-dao/osx-dao.iml" filepath="$PROJECT_DIR$/osx-dao/osx-dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/osx-parent/osx-parent.iml" filepath="$PROJECT_DIR$/osx-parent/osx-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osx-service/osx-service.iml" filepath="$PROJECT_DIR$/osx-service/osx-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/osx-util/osx-util.iml" filepath="$PROJECT_DIR$/osx-util/osx-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osx-web/osx-web.iml" filepath="$PROJECT_DIR$/osx-web/osx-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/osxidea.iml" filepath="$PROJECT_DIR$/osxidea.iml" />
     </modules>
   </component>

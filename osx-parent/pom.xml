@@ -13,6 +13,12 @@
     <packaging>pom</packaging>
     <modules>
         <module>../osx-util</module>
+        <module>../osx-dao</module>
+        <module>../osx-dao</module>
+        <module>../osx-service</module>
+        <module>../osx-web</module>
+        <module>../osx-web</module>
+        <module>../osx-web</module>
     </modules>
 
 
