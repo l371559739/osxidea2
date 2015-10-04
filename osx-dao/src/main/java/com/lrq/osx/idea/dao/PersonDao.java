@@ -9,4 +9,7 @@ public class PersonDao {
     public Person addPerson(Person p){
         return p;
     }
+    public boolean delPerson(Person p){
+        return false;
+    }
 }
