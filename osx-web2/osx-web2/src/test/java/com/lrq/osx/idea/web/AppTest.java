@@ -1,4 +1,4 @@
-package com.lrq.osx.idea.osx_web2;
+package com.lrq.osx.idea.web;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
